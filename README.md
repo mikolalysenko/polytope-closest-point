@@ -22,6 +22,8 @@ Here is an example of how to find the closest point to a triangle in a mesh:
 
 Which computes the closest point in the first facet of the mesh to the point `[0,0,0]`, storing the resulting point in `result` and the squared distance in `sqr_distance`.
 
+For more examples, see test/simple.js.
+
 ### `require("polytope-closest-point")(cell, positions, x[, result])`
 
 Computes the closest point in a polytope to `x`, storing the result in `result`.
