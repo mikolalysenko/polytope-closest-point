@@ -8,8 +8,8 @@ Install
     npm install polytope-closest-point
 
 
-`require("polytope-closest-point")(cell, positions, x[, result])`
----------------------------------------------------------------
+### `require("polytope-closest-point")(cell, positions, x[, result])`
+
 Computes the closest point in a polytope to `x`, storing the result in `result`.
 
 * `cell` is a list of indices into a positions representing the vertices of the polytope.
