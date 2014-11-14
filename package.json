@@ -1,6 +1,6 @@
 {
   "name": "polytope-closest-point",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes the closest point to a polytope in arbitrary dimensions",
   "main": "index.js",
   "directories": {
